@@ -15,3 +15,7 @@ Se utiliza las APIs de Meetup usando OAuth para acceder a la información de cad
 ## ¿Cuándo se actualiza el calendario?
 
 De forma automática, se actualizará todos los días a primera hora de la mañana. Esto quiere decir que pueden pasar en algunas ocasiones algunas horas desde que alguna comunidad crea un evento y aparece en el calendario pero a cambio, no requiere intervención ni acción manual evitando posibilidad de olvido. Por supuesto, es posible forzar la actualización de forma manual en cualquier momento.
+
+## ¿Puedo ayudar con este repositorio o la web?
+
+La .NET Alliance es un proyecto creado por y para la comunidad. La respuesta es, por supuesto. Cualquiera que quiera puede añadir su grano de arena con cualquier detalle.
