@@ -14,3 +14,4 @@ Listado de comunidades incluidas en la .NET Alliance.
 | Netsaimada  | https://www.meetup.com/Netsaimada/   |
 | RiojaDotNet  | https://www.meetup.com/RiojaDotNet/  |
 | XantarDev  | https://www.meetup.com/XantarDev/  |
+| .NET Cadiz Group  | https://www.meetup.com/NET-Cadiz-Group/  |
