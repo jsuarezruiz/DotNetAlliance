@@ -20,11 +20,11 @@ De esta forma, añadir un nuevo grupo requiere muy poco tiempo y además, los or
 
 ## ¿Quieres colaborar?
 
-Si tu comunidad no esta entre el listado de comunidades actualmente incluidas en la DotNet Alliance, puedes añadirla enviando una Pull Request.
+Si tu comunidad no esta entre el [listado de comunidades](Comunidades.md) actualmente incluidas en la DotNet Alliance, puedes añadirla enviando una Pull Request.
 
 ## ¿Tienes dudas?
 
-Hemos preparado un completo Faq intentando resolver las dudas principales. ¿Aún con dudas?. Puedes abrir una issue con tu feedback!.
+Hemos preparado un completo [Faq](FAQ.md) intentando resolver las dudas principales. ¿Aún con dudas?. Puedes abrir una issue con tu feedback!.
 
 ## Copyright y licencia
 
