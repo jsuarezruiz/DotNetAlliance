@@ -14,7 +14,7 @@ Con posibilidad de poder hacer búsquedas, exportar los eventos a tu propio cale
 
 ## ¿Cómo funciona?
 
-El funcionamiento es muy sencillo y sobretodo, apenas requiere mantenimiento. La página utiliza la **API de Meetup** para actualizar el calendario cada día obteniendo la información de un listado de grupos de Meetup.
+El funcionamiento es muy sencillo y sobretodo, apenas requiere mantenimiento. La página utiliza la **API de Meetup** y de **eventbrite** para actualizar el calendario cada día obteniendo la información de un listado de grupos de Meetup.
 
 De esta forma, añadir un nuevo grupo requiere muy poco tiempo y además, los organizadores del grupo NO necesitan realizar cambios de ningun tipo.
 
