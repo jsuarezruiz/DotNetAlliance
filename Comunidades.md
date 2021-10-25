@@ -15,3 +15,6 @@ Listado de comunidades incluidas en la .NET Alliance.
 | RiojaDotNet  | https://www.meetup.com/RiojaDotNet/  |
 | XantarDev  | https://www.meetup.com/XantarDev/  |
 | .NET Cadiz Group  | https://www.meetup.com/NET-Cadiz-Group/  |
+| Azurebrains  | https://www.meetup.com/Azurebrains/ |
+| Club Microsoft/.NET Valencia | https://www.meetup.com/msft-valencia/ |
+| MSCoders | https://www.meetup.com/MSCoders/ |
