@@ -18,3 +18,4 @@ Listado de comunidades incluidas en la .NET Alliance.
 | Azurebrains  | https://www.meetup.com/Azurebrains/ |
 | Club Microsoft/.NET Valencia | https://www.meetup.com/msft-valencia/ |
 | MSCoders | https://www.meetup.com/MSCoders/ |
+| MadridDotNet | https://www.meetup.com/madriddotnet/ |
